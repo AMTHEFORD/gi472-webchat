@@ -1,0 +1,11 @@
+.titlebar {
+  margin-top: 10px;
+  height:67px;
+  background-color: #f7cac9;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #9c88aa;
+  font-weight: bold;
+}
